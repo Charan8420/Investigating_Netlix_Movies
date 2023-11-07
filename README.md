@@ -1,5 +1,5 @@
 # Investigating_Netlix_Movies
-This is an analysis on whether Netflix movies are getting shorter every year. 
+In this project, we are determining whether Netflix movies are getting shorter every year by manipulating and visualizing movie data. 
 
 # Libraries used :-
 - Pandas
